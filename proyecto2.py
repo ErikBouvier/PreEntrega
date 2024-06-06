@@ -17,7 +17,7 @@ def registro_usuario():
 
 # def para borrar un usuario especifico con solicitud de contraseña
 
-# hola chicho como estas?
+# HEE QUE TE PASA
 
 
 def borrar_usuario():
